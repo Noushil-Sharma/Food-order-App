@@ -25,20 +25,23 @@ This project is a React-based website for ordering food online. It provides user
 1. Clone the repository:
 
 ```shell
-   git clone https://github.com/your-username/react-food-order-website.git
-
+git clone https://github.com/your-username/react-food-order-website.git
+```
 
 2. Navigate to the project directory:
 ```shell
-   cd react-food-order-website
+cd react-food-order-website
+```
 
 3. Install the dependencies:
 ```shell
-    npm install
+npm install
+```
 
 To start the development server, run the following command:
 ```shell
-    npm start
+npm start
+```
 
 
 Open your web browser and visit `http://localhost:3000` to see the website in action.
