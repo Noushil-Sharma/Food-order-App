@@ -2,6 +2,7 @@
 
 This project is a React-based website for ordering food online. It provides users with an intuitive interface to browse through a variety of food items, customize their orders, and complete the checkout process. The website is designed to be responsive and user-friendly, ensuring a seamless experience for both desktop and mobile users.
 
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
