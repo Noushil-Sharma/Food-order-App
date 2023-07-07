@@ -48,7 +48,6 @@ npm start
 Open your web browser and visit `http://localhost:3000` to see the website in action.
 
 ## Technologies Used
-
 - React: A JavaScript library for building user interfaces.
 - React Router: A library for handling routing in React applications.
 - Redux: A predictable state container for managing application state.
@@ -57,10 +56,8 @@ Open your web browser and visit `http://localhost:3000` to see the website in ac
 - Firebase: A platform for developing web and mobile applications, providing various services such as authentication and database storage.
 
 ## Contributing
-
 Contributions are welcome! If you find any bugs or want to enhance the existing features, feel free to submit a pull request. Please make sure to follow the [contributing guidelines](CONTRIBUTING.md).
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and use the code according to your needs.
 
